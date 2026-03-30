@@ -1,0 +1,5 @@
+{
+  "/page": "app/page.js",
+  "/blog/in-facility-care/page": "app/blog/in-facility-care/page.js",
+  "/blog/specialized-care/page": "app/blog/specialized-care/page.js"
+}
